@@ -3,7 +3,7 @@
 🔭 I’m a fresh graduate looking for new experience
 🌱 I’m currently learning 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iomxin&title_color=#01B636)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iomxin&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
