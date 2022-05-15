@@ -1,5 +1,5 @@
 
-![MyHeader](iomxin/header.png)
+![MyHeader](/header.png)
 
 ### Hi there 👋
 
