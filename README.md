@@ -3,7 +3,7 @@
 🔭 I’m a fresh graduate looking for new experience
 🌱 I’m currently learning 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iomxin&column=3&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=iomxin&column=3&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iomxin&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
