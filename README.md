@@ -4,6 +4,7 @@
 ### Hi there 👋
 
 🔭 I’m a fresh graduate looking for new experience
+
 🌱 I’m currently learning Kotlin
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iomxin&column=4&theme=matrix&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
